@@ -1,6 +1,6 @@
 <h1 align="center">News Research Tool</h1>
 
-As we know, ChatGPT is one of the most powerful tools . However, we know it isn't up to date with current data. That is why I decided to 
+As we know, ChatGPT is one of the most powerful tools for research. However, we also know it isn't up to date with current data. That is why I decided to create an LLM application that can answer questions about any articles you provide it with! Simply add the links to the sites you are investigating in the sidebar, ask any questions you have about them and watch as the News Research Tools provides current and accurate information on your chosen artitcles.
 
 ![News Research Tool App Screenshot](./News%20Research%20Tool%20App%20Picture.png)
 
