@@ -2,7 +2,7 @@
 
 As we know, ChatGPT is one of the most powerful tools . However, we know it isn't up to date with current data. That is why I decided to 
 
-![News App Screenshot](./News%20App%20Picture.png)
+![News Research Tool App Screenshot](./News%20Research%20Tool%20App%20Picture.png)
 
 ## Dependencies
 To run this project, download the repository and run<br><br>
